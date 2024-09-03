@@ -48,6 +48,7 @@ int main()
     d1.display();
 }
 ```
+OUTPUT A: <BR>
 ![CODE 12A](https://github.com/sarakanyal03/CDS_Experiment12/blob/main/12A.png)
 * CODE B : <BR>
 ```
@@ -73,9 +74,10 @@ int main()
     Num n1(4,3);
 } 
 ```
+OUTPUT B: <BR>
 ![CODE 12B](https://github.com/sarakanyal03/CDS_Experiment12/blob/main/12B.png)
 * CODE C: <BR>
-![CODE 12C](https://github.com/sarakanyal03/CDS_Experiment12/blob/main/12C.png)
+
 ```
 #include<iostream>
 using namespace std;
@@ -102,5 +104,8 @@ int main()
     return 0;
 } 
 ```
+OUTPUT C: <BR>
+![CODE 12C](https://github.com/sarakanyal03/CDS_Experiment12/blob/main/12C.png)
+
 # CONCLUSION
 Gaining experience in C++ programming requires an understanding of constructors and destructors, particularly when interacting with intricate object-oriented systems. The idea of RAII (Resource Acquisition Is Initialization), which links resource management to object lifetime to lower the possibility of resource leaks and guarantee more dependable programming, was reaffirmed by this experiment. Writing more effective and maintainable C++ applications now has a strong basis thanks to the study and actual use of these concepts.
