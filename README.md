@@ -15,3 +15,9 @@ Features:
 * The destructor bears the class name, with a tilde (`~`) before it.
 * It does not return any value and does not accept any arguments.
 
+# CODE & OUTPUT 
+* CODE A : <BR>
+
+* CODE B : <BR>
+
+* CODE C: <BR>
