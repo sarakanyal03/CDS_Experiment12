@@ -12,6 +12,6 @@ Categories: <BR>
 
 The purpose of destructors is to be special member functions that are run automatically when an object is removed intentionally or goes out of scope. They are employed to carry out tidying up duties, like resource releases.<br>
 Features:
-* The destructor bears the class name, with a tilde (\) before it.
+* The destructor bears the class name, with a tilde (`~`) before it.
 * It does not return any value and does not accept any arguments.
 
