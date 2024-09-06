@@ -18,6 +18,8 @@ Features:
 # CODE & OUTPUT 
 * CODE A : <BR>
 ```
+//SARA KANYAL
+//23070123115
 #include<iostream> 
 #include<string>
 using namespace std; 
@@ -52,6 +54,8 @@ OUTPUT A: <BR>
 ![CODE 12A](https://github.com/sarakanyal03/CDS_Experiment12/blob/main/12A.png)
 * CODE B : <BR>
 ```
+//SARA KANYAL
+//23070123115
 #include<iostream>
 using namespace std;
 class Num
@@ -79,6 +83,8 @@ OUTPUT B: <BR>
 * CODE C: <BR>
 
 ```
+//SARA KANYAL
+//23070123115
 #include<iostream>
 using namespace std;
 int count=0;
